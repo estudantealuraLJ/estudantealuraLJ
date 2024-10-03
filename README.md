@@ -1,9 +1,20 @@
-## Hi there 👋
+Boas Vindas ao meu perfil
 
-<!--
-**estudantealuraLJ/estudantealuraLJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvevndo scratch e javascript alem do alura
 
-Here are some ideas to get you started:
+![image](https://github.com/user-attachments/assets/4f709ee3-170f-48e5-8fc9-d3a58e23fbe2)
+
+
+
+![](https://medial.tenor.com/m/mCiM7mGGI4AAAAC/naruto.gif)
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
